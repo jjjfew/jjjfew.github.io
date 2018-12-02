@@ -9,3 +9,5 @@ Project Pages is a research blog tool that allows you to quickly show your lates
 
 Email: jjjfew@gmail.com	
 
+[mail]: jjjfew@gmail.com
+
