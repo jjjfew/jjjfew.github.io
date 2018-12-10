@@ -1,0 +1,45 @@
+---
+layout: post
+title:  "测试代码高亮"
+date:   2018-12-10 18:26:06 +0800
+categories: jekyll update
+---
+
+
+```
+/*
+* Copyright (c) 2017, GuChen, All rights reserved.
+* Abstract：Print hello
+* Platform：C
+* Version：V0.1
+* Created by <guchen@foxmail.com> Date: Dec 10, 2018 at 6:32:46 PM*/
+#include <stdio.h>
+
+int main(void)
+{
+    printf("hello\n");
+    
+    return 0; 
+}
+```
+
+
+
+```c
+/*
+* Copyright (c) 2017, GuChen, All rights reserved.
+* Abstract：Print hello
+* Platform：C
+* Version：V0.1
+* Created by <guchen@foxmail.com> Date: Dec 10, 2018 at 6:33:12 PM*/
+#include <stdio.h>
+
+int main(void)
+{
+    printf("hello\n");
+    
+    return 0; 
+}
+
+```
+
